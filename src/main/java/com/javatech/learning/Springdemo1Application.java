@@ -22,7 +22,7 @@ public class Springdemo1Application {
 		
 		User user1 = userRepository.save(user);
 		
-		System.out.println(user1);  
+		System.out.println(user1);   
 	}
 
 }
